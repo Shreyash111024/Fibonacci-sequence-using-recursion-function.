@@ -2,7 +2,6 @@
 
 
 
-
 Research ~ 
  ⧫ What is a Recursive Function?
 In C programming, a recursive function is a function that calls itself, either directly or indirectly, during its execution. This technique is used to solve problems by breaking them down into smaller, similar subproblems until a base case is reached.
