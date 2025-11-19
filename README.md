@@ -1,5 +1,4 @@
 # Fibonacci-sequence-using-recursion-function.
-Activity no. 6
 
 
 
